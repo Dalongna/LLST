@@ -1,4 +1,4 @@
-The data and code is for this paper:
+The data and code are for this paper:
 
 Quantifying surface damage of concrete subjected to freeze-thaw cycles and bending stress using line laser scanning 
 
