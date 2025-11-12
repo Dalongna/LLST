@@ -1,6 +1,6 @@
 Quantifying surface damage of concrete subjected to freeze-thaw cycles and bending stress using line laser scanning 
  
-Yuanyuan Lia,b, Long Lia†, Zhendi Wanga*,Hui Rongb, Ming Jinc, Jun Fanga, Ling Wanga
+Yuanyuan Li, Long Li†, Zhendi Wang*,Hui Rong, Ming Jin, Jun Fang, Ling Wang
 
 a. State Key Laboratory of Green Building Materials, China building Materials Academy, Beijing 100024, China
 
